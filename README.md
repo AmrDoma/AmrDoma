@@ -1,7 +1,7 @@
 ### <h1>Welcome, visitor! 👋</h1>
 My name is Amr Doma. I am currently pursuing a bachelor's degree in Biomedical & Healthcare Data Engineering.
 <br><br>
-I'm passionate about programming and problem solving, and . Feel free to explore my projects and get in touch if you have any questions, suggestions, or opportunities for collaboration!
+I'm passionate about programming and problem solving. Feel free to explore my projects and get in touch if you have any questions, suggestions, or opportunities for collaboration!
 
 -------------------
 
